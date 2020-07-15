@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm JM Ibañez, a journeyman programmer, currently at AWS. Sometimes software janitor and professionally curious.
+
+Definitely *__NOT__* the child actor. Views my own.
+
+Blog: https://blog.jmibanez.com
+
+- 📫 How to reach me: hi@jmibanez.com
+- 😄 Pronouns: he/him
+
+
 <!--
 **jmibanez/jmibanez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
