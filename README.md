@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm JM Ibañez, a journeyman programmer, currently at AWS. Sometimes software janitor and professionally curious.
+I'm JM Ibañez, a journeyman programmer, currently at Canva, formerly at AWS. Sometimes software janitor and professionally curious.
 
 Definitely *__NOT__* the child actor. Views my own.
 
