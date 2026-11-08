@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm JM Ibañez, a journeyman programmer, formerly at AWS and Canva. Sometimes software janitor and professionally curious.
+I'm JM Ibañez, a journeyman programmer, currently at Stripe, formerly at AWS and Canva. Sometimes software janitor and professionally curious.
 
 Definitely *__NOT__* the child actor. Views my own.
 
